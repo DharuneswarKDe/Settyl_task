@@ -1,0 +1,11 @@
+pandas
+re
+json
+nltk
+joblib
+pickle
+numpy
+matplotlib
+sklearn
+tensorflow
+pydantic
